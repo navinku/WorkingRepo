@@ -6,3 +6,4 @@ sudo dnf upgrade
 Adding the optional and extras repositories is also recommended:
 sudo subscription-manager repos --enable "rhel-*-optional-rpms" --enable "rhel-*-extras-rpms"
 sudo yum update
+
